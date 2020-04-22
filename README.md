@@ -28,6 +28,8 @@
 ##### Vooral bij dit idee pakte het "disgusted" niet en haalde het die door de war met verast of angstig.
 ### Eind Idee 3:
 #### Mijn uiteindelijke Idee is niet veel verschillend als de 2de behalve dat het wat beperkter word van welke games je gaat kiezen, nu kan je alleen maar games kiezen zoals pacman en snake of space invader (games met 4 of minder controls).
+## Test
+#### Dankzij de tijdelijke gebeurtenissen heb ik heel weinig kunnen testen bij anderen, daarom heb ik het maar bij 2 anderen getest: Mijn vader en zusje, ik kreeg van mijn zusje geen feedback en mijn vader gaf als feedback dat de emoties wat accuuraater zou moeten.
 ## Bronnen
   * Proof of Concept: https://www.youtube.com/watch?v=nGLjHfCmFNM
   * Eind-Presentatie: https://docs.google.com/presentation/d/1wD3ECOMwmuT0VUerBCREESRfj6Eut1rUAfRg82klrYo/edit#slide=id.p1
